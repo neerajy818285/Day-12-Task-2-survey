@@ -1,0 +1,36 @@
+.fa-star:hover {
+  cursor: pointer;
+}
+
+input:hover {
+  cursor: pointer;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.form1,
+.form-control {
+  margin-top: 5px;
+}
+
+.table td {
+  text-align: center;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+}
+
+.btn-submit {
+  background-color: green !important;
+  color: white !important;
+  transition: background-color 0.3s ease;
+}
+
+.btn-submit:hover {
+  background-color: rgb(28, 203, 92) !important;
+}
